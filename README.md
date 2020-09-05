@@ -1,4 +1,4 @@
-# Task_Scheduling
+# Task-Scheduling
 
 Problem Statement: To schedule Tasks using Red-Black Tree and Min-Heap
 
